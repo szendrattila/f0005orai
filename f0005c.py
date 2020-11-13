@@ -1,4 +1,4 @@
-sz1 = 12
+sz1 = 11
 sz2 = 21
 
 tipp = input('Mennyi ' + str(sz1) + '+' + str(sz2) + '? ')
